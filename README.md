@@ -1,4 +1,4 @@
-# 2026websever
+# 예제 실행 결과
 ##1-1  
 
 <img width="271" height="146" alt="image" src="https://github.com/user-attachments/assets/b157711b-8a85-4d5e-b5ff-676d9bcf2297" />
