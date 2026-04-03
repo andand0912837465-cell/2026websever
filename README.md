@@ -16,6 +16,8 @@
 <img width="363" height="158" alt="image" src="https://github.com/user-attachments/assets/e616fe65-b7d9-4838-8203-261de8ea9acc" />
 
 ##1-6  
+<img width="426" height="99" alt="image" src="https://github.com/user-attachments/assets/2e4b13ae-a212-415f-b9e4-b663258add8a" />
+
 ##1-7  
 ##1-8  
 ##1-9  
