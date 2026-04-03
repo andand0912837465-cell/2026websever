@@ -6,6 +6,7 @@ errorPage="IsErrorPage.jsp"%>
   
 <head>
 <meta charset="UTF-8">
+<h1>20252364강한서</h1>
 <title>page 지시어 - errorPage, isErrorPage 속성</title>
 </head>
   
