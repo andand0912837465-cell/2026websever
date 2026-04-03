@@ -1,4 +1,4 @@
   <context-param>
-    <param-name>CHAT_ADDR</param-name>
-    <param-value>ws://localhost:8081/MustHaveJSP</param-value>
+    <param-name>INIT_PARAM</param-name>
+    <param-value>web.xml에 저장한 초기화 매개변수</param-value>
   </context-param>
