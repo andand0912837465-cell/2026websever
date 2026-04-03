@@ -2,13 +2,15 @@
     pageEncoding="UTF-8"%>
 <html>
 <head>
-<h1>20252364강한서</h1>
-<title>내장 객체 - out</title>
+    <h1>20252364강한서</h1>
+    <title>내장 객체 - out</title>
 </head>
 <body>
     <%
+    out.flush(); 
+
     out.print("출력되지 않는 텍스트"); 
-    out.clearBuffer();
+    out.clearBuffer(); 
 
     out.print("<h2>out 내장 객체</h2>");
 
