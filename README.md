@@ -41,12 +41,20 @@
 
 ##2-3  
 <img width="321" height="182" alt="image" src="https://github.com/user-attachments/assets/121487b6-e926-4b23-bed2-d7c840812bd0" />
-<img width="321" height="182" alt="image" src="https://github.com/user-attachments/assets/121487b6-e926-4b23-bed2-d7c840812bd0" />
 
 ##2-4  
+<img width="1314" height="550" alt="image" src="https://github.com/user-attachments/assets/9766ae2f-6c81-463b-80e6-832c62c66df7" />
+
 ##2-5  
+<img width="340" height="394" alt="image" src="https://github.com/user-attachments/assets/f07ff99d-0c8a-45bb-afcc-acacb7f9f9cb" />
+
 ##2-6  
+<img width="379" height="411" alt="image" src="https://github.com/user-attachments/assets/fbd61f8a-562d-4e21-9256-2d2511e8db66" />
+
 ##2-7  
+<img width="379" height="411" alt="image" src="https://github.com/user-attachments/assets/2d408628-0538-494d-b019-64f4173dc806" />
+<img width="357" height="423" alt="image" src="https://github.com/user-attachments/assets/75cd93ec-2ece-4cf8-8585-0bbe7a3b9384" />
+
 ##2-8   
 ##2-9  
 ##2-10  
