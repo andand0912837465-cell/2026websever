@@ -27,7 +27,9 @@
 ##1-9  
 <img width="458" height="138" alt="image" src="https://github.com/user-attachments/assets/89f88cd4-42c3-4ac9-808d-2df8b5294079" />
 
-##1-10  
+##1-10
+<img width="187" height="99" alt="image" src="https://github.com/user-attachments/assets/521f331a-a0ed-46bb-b7e4-6347e2dcde6c" />
+
 
 ##2-1  
 ##2-2  
