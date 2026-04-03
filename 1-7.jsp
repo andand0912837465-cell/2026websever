@@ -5,6 +5,7 @@ pageEncoding="UTF-8" buffer="1kb" autoFlush="false"%>
 
 <head>
 <meta charset="UTF-8">
+<h1>20252364강한서</h1>
 <title>page 지시어 - buffer, autoFlush 속성</title>
 </head>
 
