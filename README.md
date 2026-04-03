@@ -34,7 +34,11 @@
 
 
 ##2-1  
+<img width="411" height="567" alt="image" src="https://github.com/user-attachments/assets/29a28a14-14b0-400e-8f22-c6e2c7934735" />
+
 ##2-2  
+<img width="386" height="383" alt="image" src="https://github.com/user-attachments/assets/17188173-b18b-45c5-81f4-128a90467a1b" />
+
 ##2-3  
 ##2-4  
 ##2-5  
