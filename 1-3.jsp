@@ -11,7 +11,7 @@ pageEncoding="UTF-8"%>
 
 <body>
 <%
-try {  // 예외 발생 부분을 감쌉니다.
+try {  
     int myAge = Integer.parseInt(request.getParameter("age")) + 10;
     out.println("10년 후 당신의 나이는 " + myAge + "입니다.");
 }
