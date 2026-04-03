@@ -1,5 +1,7 @@
 # 2026websever
 ##1-1  
+<img width="271" height="146" alt="image" src="https://github.com/user-attachments/assets/b157711b-8a85-4d5e-b5ff-676d9bcf2297" />
+
 ##1-2  
 ##1-3  
 ##1-4  
