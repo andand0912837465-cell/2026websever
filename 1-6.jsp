@@ -5,6 +5,7 @@ trimDirectiveWhitespaces="true"%>
 <html>
 <head>
 <meta charset="UTF-8">
+<h1>20252364강한서</h1>
 <title>page 지시어 - trimDirectiveWhitespaces 속성</title>
 </head>
 <body>
