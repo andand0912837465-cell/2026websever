@@ -7,7 +7,10 @@ public int add(int num1 , int num2) {
 %>
 
 <html>
-<head><title>스크립트 요소</title></head>
+<head>
+<h1>20252364강한서</h1>
+<title>스크립트 요소</title>
+</head>
 
 <body>
 <% 
